@@ -9,9 +9,11 @@ MongoDB Container — Provides the database service.
 Mongo Express Container — Provides a web-based GUI to manage MongoDB.
 
 Docker Compose is used to create and run all services together.
+
 **To run the project**
 - jsut run docker-compose .yaml
-- docker compose up -d 
+- docker compose up -d
+ 
 **Project Structure**
 .
 ├── Dockerfile
