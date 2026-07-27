@@ -20,7 +20,7 @@ services:
     - mongo
 
   node:
-    image: fawadahmad94/node-app:v2
+    image: fawadahmad94/node-app:latest
     ports:
     - 5050:5050
     environment:
